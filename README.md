@@ -1,128 +1,199 @@
+<!-- ========================= -->
+<!--       PROFILE HEADER      -->
+<!-- ========================= -->
+
 <div align="center">
 
-# Hi, I'm Mashood ul Hassan 👋
+# 👋 Hi, I'm Mashood ul Hassan
 
-### Final Year Computer Science Student • Aspiring Data Scientist
-
-Building intelligent software with **Python**, **Machine Learning**, **Deep Learning**, and **AI Agents** while expanding my skills in modern web development.
-
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL) • [Email](mailto:YOUR_EMAIL)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Final+Year+Computer+Science+Student;Aspiring+Data+Scientist;Machine+Learning+%7C+Deep+Learning+Enthusiast;Building+AI+Agents+%26+Intelligent+Applications;Python+%7C+C%2B%2B+%7C+Node.js+Developer" />
 
 </div>
 
 ---
 
-## About Me
+# 💻 Terminal
 
-```text
-> whoami
+```bash
+┌──(mashood㉿github)-[~/profile]
+└─$ whoami
 
 Mashood ul Hassan
 
-Computer Science Student
-Aspiring Data Scientist
-Machine Learning Enthusiast
-AI Agent Developer
-Node.js Developer
+┌──(mashood㉿github)-[~/profile]
+└─$ cat about_me.txt
 
-Currently Building:
-• AI-powered applications
-• Intelligent academic systems
-• Image generation platforms
-• Machine Learning projects
+🎓 Final Year Computer Science Student
 
-Current Goal:
-Become a Machine Learning Engineer and contribute to
-real-world AI products.
+🤖 Aspiring Data Scientist
+
+🧠 Passionate about Machine Learning & Deep Learning
+
+⚙️ Building AI Agents & Intelligent Systems
+
+🌐 Full Stack Web Development (Node.js)
+
+🐍 Python | C++ | SQL | JavaScript
+
+📚 Always learning something new
+
+☕ Coffee + Code = Productivity
 ```
 
 ---
 
-## Tech Stack
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,nodejs,express,mysql,mongodb,git,github,vscode&perline=5"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## Featured Projects
+# 🔥 GitHub Streak
 
-### 🤖 Intelligent Academic Advisor
+<p align="center">
 
-An AI-powered academic recommendation system designed to assist students with personalized course guidance.
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-### 🧠 Tool Calling AI Agent
+# 📈 Contribution Graph
 
-A deterministic AI agent capable of reasoning through structured tasks using external tools.
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+```text
+Machine Learning      ██████████░░ 85%
+
+Deep Learning         ████████░░░░ 70%
+
+Data Science          ████████░░░░ 75%
+
+Node.js               ███████░░░░░ 65%
+
+AI Agents             █████████░░░ 80%
+```
+
+---
+
+# 📂 Featured Projects
+
+### 🤖 Intelligent Academic Advisor System
+
+AI-powered academic advisor built using Python.
 
 ---
 
 ### 🌍 Multilingual Translator
 
-A translation platform supporting multiple languages with an intuitive user experience.
+Translation system supporting multiple languages.
 
 ---
 
-### 🎨 AI Image Generator
+### 🧠 Tool Calling AI Agent
 
-A full-stack AI application for generating images from text prompts.
-
----
-
-## GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mashood-Ul-Hassan&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashood-Ul-Hassan&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=Mashood-Ul-Hassan&theme=github-dark-blue&hide_border=true"/>
-
-</p>
+Deterministic AI Agent capable of planning and using tools.
 
 ---
 
-## Currently Exploring
+### 🌐 AI Image Generator Website
 
-* Machine Learning
-* Deep Learning
-* Data Science
-* AI Agents
-* Large Language Models
-* Full Stack Development
+Full Stack AI-powered web application.
 
 ---
 
-## Let's Connect
+# 📫 Connect With Me
 
-If you're interested in collaborating on AI, Machine Learning, or open-source projects, feel free to connect.
+<p>
 
-<p align="left">
-
-<a href="https://github.com/Mashood-Ul-Hassan">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/YOUR_LINK">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
+
+---
+
+# 👀 Profile Views
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```bash
+while(alive){
+
+    eat();
+
+    sleep();
+
+    code();
+
+    learn();
+
+    repeat();
+
+}
+```
 
 ---
 
 <div align="center">
 
-*"Code with purpose. Learn continuously. Build intelligently."*
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
 
 </div>
