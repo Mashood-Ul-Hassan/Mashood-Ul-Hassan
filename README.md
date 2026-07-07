@@ -1,194 +1,161 @@
-<!-- ========================= -->
-<!--       PROFILE HEADER      -->
-<!-- ========================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Mashood ul Hassan
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mashood+ul+Hassan;Final+Year+BS+Computer+Science+Student;Machine+Learning+%7C+Deep+Learning+Enthusiast;Building+AI+Agents+%26+Intelligent+Systems;Python+%7C+C%2B%2B+%7C+Node.js+Developer" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Final+Year+Computer+Science+Student;Aspiring+Data+Scientist;Machine+Learning+%7C+Deep+Learning+Enthusiast;Building+AI+Agents+%26+Intelligent+Applications;Python+%7C+C%2B%2B+%7C+Node.js+Developer" />
+<br/>
+
+<a href="https://www.linkedin.com/in/mashood-ul-hassan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:syedmashoodhassan01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/mashoodul.hassan.359">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://github.com/Mashood-Ul-Hassan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
----
+<br/>
 
-# 💻 Terminal
+## 🧑‍💻 About Me
 
 ```bash
 ┌──(mashood㉿github)-[~/profile]
 └─$ whoami
-
 Mashood ul Hassan
 
 ┌──(mashood㉿github)-[~/profile]
 └─$ cat about_me.txt
-
-🎓 Final Year Computer Science Student
-
-🤖 Aspiring Data Scientist
-
-🧠 Passionate about Machine Learning & Deep Learning
-
-⚙️ Building AI Agents & Intelligent Systems
-
-🌐 Full Stack Web Development (Node.js)
-
+🎓 Final Year BS Computer Science Student — University of Management & Technology (UMT), Lahore
+🤖 Aspiring Data Scientist & AI Engineer
+🧠 Passionate about Machine Learning, Deep Learning & Generative AI
+⚙️  Building AI Agents & Intelligent Applications
+🌐 Full-Stack Web Development with Node.js
 🐍 Python | C++ | SQL | JavaScript
-
-📚 Always learning something new
-
+📚 Always exploring something new in AI
 ☕ Coffee + Code = Productivity
 ```
 
----
+<br/>
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-### Languages
+**Languages**
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" />
 </p>
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,pytorch,tensorflow" />
 </p>
 
-### Databases
+**Databases**
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Tools
+**Tools & Platforms**
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </p>
 
----
+<br/>
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mashood-Ul-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashood-Ul-Hassan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
+  <img src="https://streak-stats.demolab.com?user=Mashood-Ul-Hassan&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mashood-Ul-Hassan&theme=tokyo-night&hide_border=true" />
+</p>
 
-# 🧠 Currently Learning
+<br/>
+
+## 🧠 Currently Learning
 
 ```text
 Machine Learning      ██████████░░ 85%
-
 Deep Learning         ████████░░░░ 70%
-
 Data Science          ████████░░░░ 75%
-
-Node.js               ███████░░░░░ 65%
-
 AI Agents             █████████░░░ 80%
+Node.js               ███████░░░░░ 65%
 ```
 
----
+<br/>
 
-# 📂 Featured Projects
+## 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 Intelligent Academic Advisor System
+AI-powered academic advisor built in Python, using BFS, A*, and CSP algorithms to plan an 8-semester, 132-credit BSCS program. Includes a Tkinter-based student management dashboard with search, filters, and detailed analytics.
 
-AI-powered academic advisor built using Python.
+</td>
+<td width="50%">
 
----
+### 🧠 Deterministic Tool-Calling AI Agent
+A rule-based Python agent that mimics LLM tool-calling architectures like LangChain and OpenAI function calling — planning tasks and invoking tools deterministically.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🌍 Multilingual Translator
+A translation system supporting multiple languages, built to explore practical NLP application design.
 
-Translation system supporting multiple languages.
-
----
-
-### 🧠 Tool Calling AI Agent
-
-Deterministic AI Agent capable of planning and using tools.
-
----
+</td>
+<td width="50%">
 
 ### 🌐 AI Image Generator Website
+A full-stack, AI-powered web application for generating images from user prompts.
 
-Full Stack AI-powered web application.
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p>
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/mashood-ul-hassan/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Mashood-Ul-Hassan">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
 </p>
 
----
-
-# 👀 Profile Views
-
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-
+<p align="center">
+📧 <a href="mailto:syedmashoodhassan01@gmail.com">syedmashoodhassan01@gmail.com</a>
 </p>
 
----
+<br/>
 
-# ⚡ Fun Fact
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mashood-Ul-Hassan&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
-```bash
-while(alive){
-
-    eat();
-
-    sleep();
-
-    code();
-
-    learn();
-
-    repeat();
-
-}
-```
-
----
+<br/>
 
 <div align="center">
 
