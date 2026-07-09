@@ -21,7 +21,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```bash
 ┌──(mashood㉿github)-[~/profile]
@@ -42,7 +42,7 @@ Mashood ul Hassan
 
 <br/>
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -109,7 +109,7 @@ Mashood ul Hassan
 
 <br/>
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 ```text
 Machine Learning      ██████████░░ 85%
@@ -121,7 +121,7 @@ Node.js               ███████░░░░░ 65%
 
 <br/>
 
-## 📂 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -156,7 +156,7 @@ A full-stack, AI-powered web application for generating images from user prompts
 
 <br/>
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mashood-ul-hassan/">
@@ -181,7 +181,7 @@ A full-stack, AI-powered web application for generating images from user prompts
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
 
